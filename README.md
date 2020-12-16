@@ -1,1 +1,1 @@
-# notch_global
+This repository includes files supporting the findings presented in the article entitled " Notch signaling pathway in cancer - review with functional analysis" authored by Dorota Anusewicz, Magdalena Orzechowska and Andrzej K. Bednarek (Department of Molecular Carcinogenesis, Medical University of Lodz, Poland).
